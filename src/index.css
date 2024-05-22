@@ -44,6 +44,7 @@ footer p {
   width: 240px;
   margin: 16px;
   float: left;
+  height: 500px;
 }
 .note h1 {
   font-size: 1.1em;
@@ -55,3 +56,10 @@ footer p {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
+.propsimg {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
+
